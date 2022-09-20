@@ -8,3 +8,12 @@ iframe {
     height: 100vh;        /* Viewport-relative units */
     width: 100vw;
 }
+
+a {
+	color: #444;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #f44336;
+}
